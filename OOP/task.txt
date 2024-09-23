@@ -1,0 +1,12 @@
+1) Example for below topics both c++ and python.
+    OOP: 
+    Template: 
+    1) Class
+    2) Object
+    3) Methods
+    4) Inheritance
+    5) Encaptulation
+    6) Polymorphism
+    7) Abstraction
+2) OOP: https://www.interviewbit.com/oops-interview-questions/
+3) Python: https://www.interviewbit.com/python-interview-questions/
